@@ -63,6 +63,21 @@ data:
         - id: demo
           displayName: API Hub Demo Team
           description: API Hub Demo Team
+        - id: fauna-amphibians
+          displayName: Fauna Amphibians
+          description: Fauna Amphibians Team
+        - id: fauna-birds
+          displayName: Fauna Birds
+          description: Fauna Birds Team
+        - id: fauna-mammals
+          displayName: Fauna Mammals
+          description: Fauna Mammals Team
+        - id: fauna-marsupials
+          displayName: Fauna Marsupials
+          description: Fauna Marsupials Team
+        - id: fauna-reptiles
+          displayName: Fauna Reptiles
+          description: Fauna Reptiles Team
     - id: apihub-business-unit
       displayName: Business unit
       description: A business unit responsible for an API
@@ -75,6 +90,12 @@ data:
         - id: demo
           displayName: API Hub Demo Organization
           description: API Hub Demo Organization
+        - id: fauna
+          displayName: Fauna Ltd.
+          description: Manages collections of animals
+        - id: flora
+          displayName: Flora Ltd.
+          description: Manages collections of plants
     - id: apihub-gateway
       displayName: Gateway
       description: The type of API gateway used for a deployment
