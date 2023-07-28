@@ -114,3 +114,24 @@ data:
         - id: apihub-unmanaged
           displayName: Unmanaged
           description: ""
+    - id: apihub-kind
+      displayName: Kind
+      description: Kind of API entry
+      adminApplied: false
+      singleSelection: false
+      searchExcluded: false
+      systemManaged: false
+      displayOrder: 5
+      elements:
+        - id: enrolled
+          displayName: enrolled
+          description: Enrolled API
+        - id: traffic
+          displayName: traffic
+          description: Traffic Signal
+        - id: gateway
+          displayName: gateway
+          description: Gateway Signal
+        - id: product
+          displayName: product
+          description: Product Signal
