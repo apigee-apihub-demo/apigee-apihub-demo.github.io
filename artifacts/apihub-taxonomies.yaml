@@ -124,14 +124,17 @@ data:
       displayOrder: 5
       elements:
         - id: enrolled
-          displayName: enrolled
+          displayName: Enrolled
           description: Enrolled API
         - id: traffic
-          displayName: traffic
+          displayName: Traffic
           description: Traffic Signal
         - id: gateway
-          displayName: gateway
+          displayName: Gateway
           description: Gateway Signal
         - id: product
-          displayName: product
+          displayName: Product
           description: Product Signal
+        - id: proxy
+          displayName: Proxy
+          description: Proxy Signal
