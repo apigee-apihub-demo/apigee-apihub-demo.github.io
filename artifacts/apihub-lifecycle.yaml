@@ -41,3 +41,18 @@ data:
       description: API no longer available for use
       url: ""
       displayOrder: 6
+    - id: observed-product
+      displayName: Observed Product
+      description: An Apigee API Product
+      url: ""
+      displayOrder: 7
+    - id: observed-proxy
+      displayName: Observed Proxy
+      description: An Apigee API Proxy
+      url: ""
+      displayOrder: 8
+    - id: observed-traffic
+      displayName: Observed Traffic
+      description: An Apigee Traffic Observation
+      url: ""
+      displayOrder: 9
